@@ -8,6 +8,7 @@ The Warehouse Space Utilization Analysis project aims to evaluate the effectiven
 Assess the current utilization of warehouse space.
 Identify patterns and trends in space usage over time.
 Provide actionable insights to improve efficiency and reduce costs.
+
 **Dataset Description**
 
 The dataset includes key details about products stored in the warehouse, which will be used for utilization rate calculations and profitability analysis.
@@ -15,19 +16,33 @@ The dataset includes key details about products stored in the warehouse, which w
 **Column Descriptions:**
 
 Product_ID: Unique identifier for each product.
+
 Product_Name: Name of the product.
+
 Category: Product category (e.g., Electronics, Furniture).
+
 Warehouse_Location: Specific location within the warehouse (e.g., Aisle 1, Shelf 2).
+
 Section: Section of the warehouse (e.g., Refrigerated, Dry Goods).
+
 Quantity_Stored: Number of units stored.
+
 Unit_Size: Size of each unit (in cubic meters).
+
 Total_Space_Used: Total space occupied (calculated as Quantity_Stored × Unit_Size).
+
 Total_Warehouse_Space: Total available space (in cubic meters).
+
 Utilization_Rate: Percentage of space utilized (calculated as (Total_Space_Used / Total_Warehouse_Space) × 100).
+
 Cost_Per_Unit: Cost to store each unit (in currency).
+
 Total_Cost: Total cost for all units (calculated as Quantity_Stored × Cost_Per_Unit).
+
 Selling_Price_Per_Unit: Selling price of each unit (in currency).
+
 Total_Revenue: Revenue from selling stored units (calculated as Quantity_Stored × Selling_Price_Per_Unit).
+
 Profit: Profit from stored units (calculated as Total_Revenue - Total_Cost).
 
 **Key Findings**:
