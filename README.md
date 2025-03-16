@@ -86,3 +86,22 @@ Perishables section is the most profitable at $1.58M.
 Dry Goods section follows at $1.45M.
 
 Refrigerated section contributes $1.33M to overall profit.
+
+**Tools & Technologies Used**
+
+**Power BI:**
+
+DAX for creating calculated measures and KPIs.
+
+Power Query for data transformation and cleaning.
+
+Custom visualizations for interactive dashboard elements.
+
+Slicers and filters for dynamic data exploration.
+
+
+**Excel:**
+
+Data preparation and initial analysis.
+
+Data validation and consistency checks.
