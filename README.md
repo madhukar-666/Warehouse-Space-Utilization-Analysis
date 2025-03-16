@@ -49,30 +49,40 @@ Profit: Profit from stored units (calculated as Total_Revenue - Total_Cost).
 
 **Space Utilization**
 
-Overall warehouse utilization rate is 1.75%
-Total warehouse capacity is 12M cubic meters with only 0.19M cubic meters (1.5%) currently used
-Significant opportunity to optimize space usage
+Overall warehouse utilization rate is 1.75%.
+
+Total warehouse capacity is 12M cubic meters with only 0.19M cubic meters (1.5%) currently used.
+
+Significant opportunity to optimize space usage.
 
 **Inventory Analysis**
 
-Total inventory: 251K units across all categories
-Clothing, Groceries, and Health & Beauty categories each have 148 units
-Aisle 3 and Aisle 13 contain the highest quantity of stored items
+Total inventory: 251K units across all categories.
+
+Clothing, Groceries, and Health & Beauty categories each have 148 units.
+
+Aisle 3 and Aisle 13 contain the highest quantity of stored items.
 
 **Financial Performance**
 
-Total Revenue: $6.27M
-Total Cost: $1.91M
+Total Revenue: $6.27M.
+
+Total Cost: $1.91M.
+
 Total Profit: $4.36M
 
 **Category Performance**
 
-Clothing category generates the highest revenue at $952.35K
-Electronics category shows strong profitability at $680.8K (15.09% of total profit)
+Clothing category generates the highest revenue at $952.35K.
+
+Electronics category shows strong profitability at $680.8K (15.09% of total profit).
+
 All product categories show relatively balanced profit distribution (12-15% each)
 
 **Section Analysis**
 
-Perishables section is the most profitable at $1.58M
-Dry Goods section follows at $1.45M
-Refrigerated section contributes $1.33M to overall profit
+Perishables section is the most profitable at $1.58M.
+
+Dry Goods section follows at $1.45M.
+
+Refrigerated section contributes $1.33M to overall profit.
