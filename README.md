@@ -1,13 +1,19 @@
 # Warehouse-Space-Utilization-Analysis
+
 **Project Overview**
 The Warehouse Space Utilization Analysis project aims to evaluate the effectiveness of warehouse space usage using Excel. Interns will analyze warehouse inventory data to identify inefficiencies and provide actionable recommendations to optimize space utilization. This project will enhance data analysis skills through spreadsheet functions, pivot tables, and visualization techniques.
+
 **Objectives**
+
 Assess the current utilization of warehouse space.
 Identify patterns and trends in space usage over time.
 Provide actionable insights to improve efficiency and reduce costs.
 **Dataset Description**
+
 The dataset includes key details about products stored in the warehouse, which will be used for utilization rate calculations and profitability analysis.
+
 **Column Descriptions:**
+
 Product_ID: Unique identifier for each product.
 Product_Name: Name of the product.
 Category: Product category (e.g., Electronics, Furniture).
